@@ -1,2 +1,2 @@
 # wordpress
-Códigos em Python para alterações no Wordpress
+Python codes for modifications in WordPress
